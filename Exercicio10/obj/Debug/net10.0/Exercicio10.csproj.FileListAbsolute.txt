@@ -1,0 +1,14 @@
+/home/henrique/Documents/ListaExercicios/Exercicio10/bin/Debug/net10.0/Exercicio10
+/home/henrique/Documents/ListaExercicios/Exercicio10/bin/Debug/net10.0/Exercicio10.deps.json
+/home/henrique/Documents/ListaExercicios/Exercicio10/bin/Debug/net10.0/Exercicio10.runtimeconfig.json
+/home/henrique/Documents/ListaExercicios/Exercicio10/bin/Debug/net10.0/Exercicio10.dll
+/home/henrique/Documents/ListaExercicios/Exercicio10/bin/Debug/net10.0/Exercicio10.pdb
+/home/henrique/Documents/ListaExercicios/Exercicio10/obj/Debug/net10.0/Exercicio10.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Documents/ListaExercicios/Exercicio10/obj/Debug/net10.0/Exercicio10.AssemblyInfoInputs.cache
+/home/henrique/Documents/ListaExercicios/Exercicio10/obj/Debug/net10.0/Exercicio10.AssemblyInfo.cs
+/home/henrique/Documents/ListaExercicios/Exercicio10/obj/Debug/net10.0/Exercicio10.csproj.CoreCompileInputs.cache
+/home/henrique/Documents/ListaExercicios/Exercicio10/obj/Debug/net10.0/Exercicio10.dll
+/home/henrique/Documents/ListaExercicios/Exercicio10/obj/Debug/net10.0/refint/Exercicio10.dll
+/home/henrique/Documents/ListaExercicios/Exercicio10/obj/Debug/net10.0/Exercicio10.pdb
+/home/henrique/Documents/ListaExercicios/Exercicio10/obj/Debug/net10.0/Exercicio10.genruntimeconfig.cache
+/home/henrique/Documents/ListaExercicios/Exercicio10/obj/Debug/net10.0/ref/Exercicio10.dll
