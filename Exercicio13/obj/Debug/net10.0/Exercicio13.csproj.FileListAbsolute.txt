@@ -1,0 +1,14 @@
+/home/henrique/Documents/ListaExercicios/Exercicio13/bin/Debug/net10.0/Exercicio13
+/home/henrique/Documents/ListaExercicios/Exercicio13/bin/Debug/net10.0/Exercicio13.deps.json
+/home/henrique/Documents/ListaExercicios/Exercicio13/bin/Debug/net10.0/Exercicio13.runtimeconfig.json
+/home/henrique/Documents/ListaExercicios/Exercicio13/bin/Debug/net10.0/Exercicio13.dll
+/home/henrique/Documents/ListaExercicios/Exercicio13/bin/Debug/net10.0/Exercicio13.pdb
+/home/henrique/Documents/ListaExercicios/Exercicio13/obj/Debug/net10.0/Exercicio13.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique/Documents/ListaExercicios/Exercicio13/obj/Debug/net10.0/Exercicio13.AssemblyInfoInputs.cache
+/home/henrique/Documents/ListaExercicios/Exercicio13/obj/Debug/net10.0/Exercicio13.AssemblyInfo.cs
+/home/henrique/Documents/ListaExercicios/Exercicio13/obj/Debug/net10.0/Exercicio13.csproj.CoreCompileInputs.cache
+/home/henrique/Documents/ListaExercicios/Exercicio13/obj/Debug/net10.0/Exercicio13.dll
+/home/henrique/Documents/ListaExercicios/Exercicio13/obj/Debug/net10.0/refint/Exercicio13.dll
+/home/henrique/Documents/ListaExercicios/Exercicio13/obj/Debug/net10.0/Exercicio13.pdb
+/home/henrique/Documents/ListaExercicios/Exercicio13/obj/Debug/net10.0/Exercicio13.genruntimeconfig.cache
+/home/henrique/Documents/ListaExercicios/Exercicio13/obj/Debug/net10.0/ref/Exercicio13.dll
